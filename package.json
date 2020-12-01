@@ -1,0 +1,20 @@
+{
+  "name": "scraping-tools",
+  "version": "0.0.1",
+  "description": "A library of utility functions that make scraping, data extraction and usage of headless browsers easier and faster.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apify/scraping-tools-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apify/scraping-tools-js/issues"
+  },
+  "homepage": "https://github.com/apify/scraping-tools-js#readme"
+}
