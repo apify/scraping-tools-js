@@ -1,5 +1,5 @@
 {
-  "name": "scraping-tools",
+  "name": "automation-tools",
   "version": "0.0.1",
   "description": "A library of utility functions that make scraping, data extraction and usage of headless browsers easier and faster.",
   "main": "index.js",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apify/scraping-tools-js.git"
+    "url": "git+https://github.com/apify/automation-tools.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/apify/scraping-tools-js/issues"
+    "url": "https://github.com/apify/automation-tools/issues"
   },
-  "homepage": "https://github.com/apify/scraping-tools-js#readme"
+  "homepage": "https://github.com/apify/automation-tools#readme"
 }
